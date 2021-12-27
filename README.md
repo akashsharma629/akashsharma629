@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashsharma629
 - 👀 I’m interested in Java, Data Structure and Algorithms, SpringBoot and Microservices
-- 🌱 I’m currently learning Microservices.
+- 🌱 I’m currently learning Microservices, Docker and Kubernetes.
 
 <!---
 akashsharma629/akashsharma629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
